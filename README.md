@@ -1,5 +1,10 @@
 ## Hola son Raúl 👽
-![imagen](/logo.png) 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Espero+que+esto+funcione)](https://git.io/typing-svg)
+
+ ![imagen](/logo.png)
+
+
+
 <!--
 **mtcrzz/mtcrzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
