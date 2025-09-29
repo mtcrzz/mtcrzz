@@ -1,5 +1,5 @@
 ## Hi there 👋
-[imagen](mtcrzz/IMG_20250508_202259.jpg)
+[imagen](mtcrzz/IMG_20250508_202259.jpg ?raw=true)
 <!--
 **mtcrzz/mtcrzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
