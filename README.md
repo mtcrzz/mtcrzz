@@ -1,7 +1,9 @@
-## Hola son Raúl 👽
+
+
+ ## Hola son Raúl 👽
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Espero+que+esto+funcione)](https://git.io/typing-svg)
 
- ![imagen](/logo.png)
+![imagen](/banner.png)
 
 
 
