@@ -1,5 +1,5 @@
-## Hi there 👋
-![imagen](mtcrzz/logo.png)
+## Hola son Raúl
+![imagen](/logo.png)
 <!--
 **mtcrzz/mtcrzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
